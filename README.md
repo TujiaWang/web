@@ -6,3 +6,4 @@
 + [向上无缝滚动](https://github.com/TujiaWang/web/blob/master/%E5%90%91%E4%B8%8A%E6%97%A0%E7%BC%9D%E6%BB%9A%E5%8A%A8.md)
 + [圆环进度条](https://github.com/TujiaWang/web/blob/master/%E5%9C%86%E7%8E%AF%E8%BF%9B%E5%BA%A6%E6%9D%A1.md)
 + [弹幕](https://github.com/TujiaWang/web/blob/master/%E5%BC%B9%E5%B9%95.md)
++ [前端常见填坑和技巧](https://github.com/TujiaWang/web/blob/master/front.md)
