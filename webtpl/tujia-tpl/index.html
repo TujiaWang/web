@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="white">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="email=no" />
+    <script>
+        function setRem() {
+            var deviceWidth = document.documentElement.clientWidth;
+            if (deviceWidth > 640) deviceWidth = 640;
+            document.documentElement.style.fontSize = deviceWidth / 7.5 + 'px';
+        }
+        setRem();
+        window.addEventListener('resize', function() {
+            setRem();
+        });
+    </script>
+    <title>Document</title>
+    <link rel="stylesheet" href="styles/reset.css">
+    <link rel="stylesheet" href="styles/index.css">
+</head>
+
+<body>
+    <h1>测试的标题</h1>
+    <div class="pop">
+        <div class="content">
+            <p>kldsjfkldsjf</p>
+        </div>
+    </div>
+    <script src="http://apps.bdimg.com/libs/zepto/1.1.4/zepto.min.js"></script>
+    <script src="scripts/index.js"></script>
+</body>
+
+</html>

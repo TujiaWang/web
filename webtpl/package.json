@@ -1,0 +1,19 @@
+{
+    "name": "myh5",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "author": "Tujiawang",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "^5.0.0",
+        "gulp-base64": "^0.1.3",
+        "gulp-img64-html": "^0.1.1",
+        "gulp-minify-css": "^1.2.4",
+        "gulp-postcss": "^7.0.1",
+        "gulp-tinypng": "^1.0.2",
+        "gulp-uglify": "^3.0.1",
+        "gulp-htmlmin": "^4.0.0"
+    }
+}
